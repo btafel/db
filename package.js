@@ -1,6 +1,6 @@
 Package.describe({
   name: "btafel:db",
-  version: "2.0.0-rc.7",
+  version: "2.0.1",
   summary: "Ground Meteor.Collections offline",
   git: "https://github.com/btafel/db.git"
 });
